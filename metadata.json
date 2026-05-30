@@ -1,0 +1,6 @@
+{
+  "name": "HabitOS",
+  "description": "Una app moderna, futurista y gamificada con IA para que estudiantes universitarios gestionen hábitos, productividad, salud física y mental.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
